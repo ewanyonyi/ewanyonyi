@@ -1,6 +1,6 @@
 - 👋 Hello world, I’m @ewanyonyi
-- 👀 I’m interested in DesOps/DevSecOps
-- 🌱 I’m currently doing MSc. Informmation Security and Digital Forensics
+- 👀 I’m interested in Software Engineering/DesOps/DevSecOps
+- 🌱 I’m currently enrolled for MSc. Information Security and Digital Forensics
 
 <!---
 ewanyonyi/ewanyonyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
