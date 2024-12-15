@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m @ewanyonyi
-- 👀 I’m interested in Software Engineering/DesOps/DevSecOps
+- 👀 I’m interested in Software Engineering and Cyber Security Research
 - 🌱 I’m currently enrolled for MSc. Information Security and Digital Forensics
 
 <!---
